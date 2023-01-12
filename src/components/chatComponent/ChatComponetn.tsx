@@ -20,7 +20,7 @@ export const ChatComponetn = () => {
             type={"text"}
           ></input>
           <input
-            id={"twoInput"}
+            id={"twoInput1"}
             name={"age"}
             placeholder={"Возраст"}
             type={"text"}
